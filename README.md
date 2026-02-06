@@ -3,7 +3,8 @@
 **Только для обучения и изучения системного программирования!**  
 Любое использование в реальных целях без явного согласия владельца устройства — **незаконно** и нарушает законодательство большинства стран.
 
-![Keylogger Demo](https://github.com/alexkaiman/cpp-keylogger-demo/blob/main/screenshots/Screenshot_1.jpg) ![Keylogger Demo](https://github.com/alexkaiman/cpp-keylogger-demo/blob/main/screenshots/Screenshot_2.jpg)
+![Keylogger Demo](https://github.com/alexkaiman/cpp-keylogger-demo/blob/main/screenshots/Screenshot_2.jpg)
+![Keylogger Demo](https://github.com/alexkaiman/cpp-keylogger-demo/blob/main/screenshots/Screenshot_1.jpg) 
 
 ## Возможности проекта ✨
 
